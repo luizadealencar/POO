@@ -1,0 +1,21 @@
+Joao da Silva
+40
+Lojas Guarapari
+3
+500,00
+155
+Shopping Vitoria
+1
+130,00
+100
+Polo de Modas Colatina
+5
+620,00
+0
+Maria Pedrosa
+145
+Bazar Pedra Azul
+10
+900,00
+0
+fim
